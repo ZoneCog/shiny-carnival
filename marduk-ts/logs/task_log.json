@@ -1,0 +1,14 @@
+[
+  {
+    "task_id": 1,
+    "query": "Investigate error in Process A",
+    "status": "completed",
+    "timestamp": "2024-12-11T10:30:00Z"
+  },
+  {
+    "task_id": 2,
+    "query": "Study Quantum Physics",
+    "status": "deferred",
+    "timestamp": "2024-12-11T10:35:00Z"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "error_code": "E123",
+    "context": "Process A",
+    "description": "Failed due to missing knowledge of Quantum Dynamics",
+    "timestamp": "2024-12-11T10:25:00Z"
+  }
+]

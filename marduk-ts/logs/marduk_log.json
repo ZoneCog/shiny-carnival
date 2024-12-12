@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2024-12-11T12:00:00Z",
+    "response": {
+      "type": "response",
+      "subsystem": "declarative_memory",
+      "task_id": 1,
+      "result": ["Chaos theory studies the behavior of dynamical systems that are highly sensitive to initial conditions."]
+    }
+  }
+]
